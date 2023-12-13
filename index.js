@@ -1,4 +1,4 @@
-const divide = function (params) {
+const divide = function () {
     return 2000/100;
 }
 
